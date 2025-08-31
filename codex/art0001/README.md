@@ -17,11 +17,17 @@ Um experimento simples que envolvendo interação que gera um novo arranjo de tr
 
 ### 🎯 Imagem
 
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="art0001.png" alt="Prévia da peça" width="400" />
-  </div>
-</div>
+![Prévia da peça](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0001/art0001.png?raw=true)
+
+### 🎮 Interatividade
+Esta obra não é apenas uma imagem estática:  
+ao abrir no **Processing (OpenProcessing)** você poderá **interagir em tempo real**.  
+
+➡️ Basta pressionar qualquer tecla do teclado para que o padrão de triângulos seja redesenhado com uma nova configuração.  
+Cada interação gera uma composição única, tornando a peça **dinâmica e viva**.  
+
+
+[![Abrir no OpenProcessing](https://img.shields.io/badge/%F0%9F%8E%AE_Abrir_no_OpenProcessing-ff69b4?style=for-the-badge)](https://openprocessing.org/sketch/2565982)
 
 ---
 
