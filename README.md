@@ -21,5 +21,5 @@ Dentro do CODEX você encontrará:
 
 ✅ Coleção
 
-[![Artcode-01](https://img.shields.io/badge/🎨_Ver_Artcode--01-ff69b4?style=for-the-badge)](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0001)
+[![Artcode-01](https://img.shields.io/badge/🎨_Artcode--01-ff69b4?style=for-the-badge)](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0001)
 
