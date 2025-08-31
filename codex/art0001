@@ -1,1 +1,42 @@
-codex
+# 🎨 ARTCODE-01
+
+## 📌 Descrição
+Peça inicial do projeto **Codificação Criativa**.  
+Explora a construção de grades geométricas simples com cruz central, ponto de partida para futuras variações.
+
+---
+
+<div style="display:flex; gap:40px; align-items:flex-start;">
+  <div style="flex:1; min-width:300px;">
+
+```java
+void setup() {
+  size(900, 900); 
+}
+
+void draw() {
+  background(255);
+  stroke(0);
+  strokeWeight(2);
+
+  // Linha vertical central
+  line(width/2, 0, width/2, height);
+
+  // Linha horizontal central
+  line(0, height/2, width, height/2);
+}
+```
+
+  </div>
+  <div style="flex:1; min-width:300px;">
+    <img src="art0001.png" alt="Prévia da peça" width="400" />
+  </div>
+</div>
+
+---
+
+## 📖 Metodologia
+- **Conceito:** iniciar simples (linhas centrais).  
+- **Processo:** cruz central → expansão para grid → aplicação de movimento.  
+- **Objetivo:** construir uma base sólida que será expandida nas próximas peças.  
+
