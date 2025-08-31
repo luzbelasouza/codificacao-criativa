@@ -19,8 +19,12 @@ Dentro do CODEX você encontrará:
 
 → Documentação individual de cada peça, com imagem, código e metodologia.
 
-✅ Coleção
+## ✅ Coleção
 
 [![Artcode-0001](https://img.shields.io/badge/🎨_Artcode--0001-ff69b4?style=for-the-badge)](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0001)
 ![Prévia da peça](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0001/art0001.png?raw=true)
+
+[![Artcode-0002](https://img.shields.io/badge/🎨_Artcode--0002-ff69b4?style=for-the-badge)](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0002)
+![Prévia da peça](https://github.com/luzbelasouza/codificacao-criativa/blob/main/codex/art0002/art0002.png?raw=true)
+
 
